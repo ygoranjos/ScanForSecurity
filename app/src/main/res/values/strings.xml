@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scan For Security</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou Registrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">"Bem-vindo !"</string>
+    <string name="invalid_username">Email não valido</string>
+    <string name="invalid_password">A senha precisa ter mais que 5 caracteres</string>
+    <string name="login_failed">"Login Falhou"</string>
+    <string name="title_activity_home">Dispositivos</string>
+    <string name="title_activity_add_device">AddDeviceActivity</string>
+    <string name="title_home">Dispositivos</string>
+    <string name="title_dashboard">Pulseiras</string>
+    <string name="title_notifications">Notificações</string>
+</resources>
